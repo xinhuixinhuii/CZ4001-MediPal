@@ -1,0 +1,4 @@
+repository "hololens@CZ4001ARProject@cloud"
+  path "/"
+    smartbranch "/main/navigation" 
+     

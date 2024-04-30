@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-0.5016 -1.0359 -4.5592 11.2009 0.5458 10.7561" area="109" targetId="e3b42f398782472f8019161effc588a4" name="lab2_redo_authoring_target" pathAuthoring="e3b42f398782472f8019161effc588a4_authoring.glb" pathOcclusion="e3b42f398782472f8019161effc588a4_occlusion.3dt" pathNavMesh="e3b42f398782472f8019161effc588a4_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
